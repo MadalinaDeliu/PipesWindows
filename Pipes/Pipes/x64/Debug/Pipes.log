@@ -1,0 +1,4 @@
+﻿  PrimeNumber.cpp
+D:\An3_sem1\Sisteme_de_operare\Pipes\Pipes\PrimeNumber.cpp(28,8): warning C4101: 'dwNoBytesRead': unreferenced local variable
+D:\An3_sem1\Sisteme_de_operare\Pipes\Pipes\PrimeNumber.cpp(156,5): error C2084: function 'int main(void)' already has a body
+D:\An3_sem1\Sisteme_de_operare\Pipes\Pipes\PrimeNumber.cpp(7,5): message : see previous definition of 'main'
